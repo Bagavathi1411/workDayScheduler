@@ -2,6 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-color: palevioletred;
 }
 
 textarea {
@@ -15,8 +16,8 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: blanchedalmond;
-  color: royalblue;
+  background-color: rgb(143, 144, 188);
+  color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
@@ -59,8 +60,8 @@ textarea {
 
 .saveBtn {
   border-left: 1px solid black;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
   background-color: #06aed5;
   color: white;
 }
