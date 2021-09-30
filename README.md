@@ -45,8 +45,9 @@ THEN the saved events persist
 
 ## Sample Image:
 
-My project web page:
-![My Project webpage ](assets/workDayScheduler.jpg)
+My project web page: https://bagavathi1411.github.io/workDayScheduler/
+My github page: https://github.com/Bagavathi1411/workDayScheduler
+![My Project webpage ](assets/workDayScheduler1.jpg)
 
 # ## License
 
